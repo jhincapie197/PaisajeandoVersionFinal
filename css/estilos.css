@@ -11,11 +11,12 @@ body, h1, h2, h3, p, ul, li {
 }
 
 
-main{
+main{ 
     background-image: url("../img/San\ Rafael1.jpg");
     background-repeat: no-repeat;
     background-position: center center;
 }
+
 
 /* Estilos generales para el encabezado */
 header {
@@ -224,8 +225,7 @@ footer {
     display: flex;
     justify-content: center;
     align-items: center;
-    
-    
+
 }
 
 .card{
@@ -241,6 +241,7 @@ footer {
     background-color: #ffffffc9;
     
 }
+
 
 .card img{
     width: 75px;
